@@ -1,5 +1,4 @@
 import os
-import socket
 import sys
 import json
 import numpy as np
