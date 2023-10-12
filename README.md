@@ -16,13 +16,13 @@ This project is entirely programmed in Python, using PyCharm as the IDE, and is 
 
 （ps: 强烈不推荐使用这个机器人，该机器人主要为图像化编程设计，虽然支持Python但文档资料非常少。最终测试后，机器人其通信模块存在问题，然而图形化的编程设计导致debug非常困难。推荐自行购买通讯模块和电机搭建小车（可能需要修改通信模块的代码），如果有时间我会做）
 
-![page_sensor.jpg](picture%2Fpage_sensor.jpg)
+![page_sensor.jpg](picture/page_sensor.jpg)
 
-![page_buggy.jpg](picture%2Fpage_buggy.jpg)
+![page_buggy.jpg](picture/Fpage_buggy.jpg)
 
 ## Main page
 
-![main_page.png](picture%2Fmain_page.png)
+![main_page.png](picture/Fmain_page.png)
 
 This page primarily provides an introduction to the principles of system implementation. The two buttons below lead to the preprocessing page and the operation page, respectively.
 
@@ -30,7 +30,7 @@ This page primarily provides an introduction to the principles of system impleme
 
 ## Page 1
 
-![page_1.png](picture%2Fpage_1.png)
+![page_1.png](picture/Fpage_1.png)
 
 This system needs to be used in conjunction with the Opensignals program, which can be downloaded here: [Opensignals Download](https://support.pluxbiosignals.com/knowledge-base/introducing-opensignals-revolution/). You need to create an "app" folder in the project root directory and copy the "OpenSignals (r)evolution" folder from the installation directory into the "app" folder.
 
@@ -38,7 +38,7 @@ This system needs to be used in conjunction with the Opensignals program, which 
 
 ## Page 2
 
-![page_2.png](picture%2Fpage_2.png)
+![page_2.png](picture/Fpage_2.png)
 
 If you have completed the previous steps and turned on the power of the buggy, all indicators under "Connection Status" should turn green. At this point, you need to collect sample data. 
 
