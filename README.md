@@ -10,11 +10,7 @@ Author: George Zhao - Newcastle University Msc graduate 2023
 
 This project is entirely programmed in Python, using PyCharm as the IDE, and is run in a venv environment (there's a venv folder in the root directory that needs to be configured individually). The hardware platform adopts the [BITalino (r)evolution Plugged Kit BLE/BT](https://www.pluxbiosignals.com/collections/bitalino) and an EEG sensor kit. The buggy is powered by the mBot2 robot.
 
-(ps: I strongly advise NOT using this robot. It is primarily designed for graphical programming. Although it supports Python, there is a significant lack of documentation. After final testing, issues were identified with the robot's communication module. The graphical nature of the programming design makes debugging extremely challenging. We recommend purchasing a communication module and motor to build your own buggy (you may need to modify the code of the communication module). I may work on this.)
-
 本项目完全采用Python编程，IDE是PyCharm，venv环境（根目录下有venv文件夹，需自行配置）。硬件平台采用[BITalino (r)evolution Plugged Kit BLE/BT](https://www.pluxbiosignals.com/collections/bitalino)以及EEG传感器套件。小车使用了mBot2机器人。
-
-（ps: 强烈不推荐使用这个机器人，该机器人主要为图像化编程设计，虽然支持Python但文档资料非常少。最终测试后，机器人其通信模块存在问题，然而图形化的编程设计导致debug非常困难。推荐自行购买通讯模块和电机搭建小车（可能需要修改通信模块的代码），如果有时间我会做）
 
 ![page_sensor.jpg](picture/page_sensor.jpg)
 
