@@ -38,7 +38,7 @@ This system needs to be used in conjunction with the Opensignals program, which 
 
 If you have completed the previous steps and turned on the power of the buggy, all indicators under "Connection Status" should turn green. At this point, you need to collect sample data. 
 
-First, click the red button to clear the cache, then select State 1 and State 2 to collect EEG waveforms for about 60 seconds in different states. Click the "Start Generation" button to initiate model training, which will take approximately 2-3 minutes. Once you see the generation results, click the green start button, and you will observe the EEG signal waveform and the Probability Density Function (PSD) graph. 
+First, click the red button to clear the cache, then select State 1 and State 2 to collect EEG waveforms for about 60 seconds in different states. Click the "Start Generation" button to initiate model training, which will take approximately 2-3 minutes. Once you see the generation results, click the green start button, and you will observe the EEG signal waveform and the Power Spectral Density (PSD) graph. 
 
 The three small lights in the "Result" module represent the predictions of the last three times; if all three predictions are the same, the buggy will respond by moving forward or stopping accordingly. You can also manually click the "Forward" and "Backward" buttons to test the buggy. Have fun!
 
